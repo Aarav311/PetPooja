@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798010335261",
+    "project_id": "petpooja-d7d5e",
+    "storage_bucket": "petpooja-d7d5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798010335261:android:2913acb333adf7341166f4",
+        "android_client_info": {
+          "package_name": "com.PetPooja.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzaZA28mASRGDG5to-xdKQLl8otFJrywY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
